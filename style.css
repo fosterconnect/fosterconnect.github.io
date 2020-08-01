@@ -4,16 +4,18 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.container-fluid, .container, .row {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
 .masthead
 {
     height: 85vh;
     min-height: 500px;
 }
 
-body
-{
-    overflow-x: hidden;
-}
 #particles-js
  {
     position: absolute;
