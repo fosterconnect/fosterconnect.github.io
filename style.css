@@ -10,11 +10,12 @@
     margin-right:auto;
     margin-left:auto
  }
-.masthead
-{
-    height: 85vh;
-    min-height: 500px;
-}
+ 
+ .masthead
+ {
+     height: 85vh;
+     min-height: 500px;
+ }
 
 #particles-js
  {
