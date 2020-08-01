@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid, .container, .row
+{
+    padding-right:0;
+    padding-left:0;
+    margin-right:0;
+    margin-left:0;
+    padding-top: 0; 
+}
+
+.sectionhead
+{
+    
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);  
+    height: 60vh;
+}
+
+.nav-item
+{
+    padding-left: 50px;
+    
+}
+
+.rsvp
+{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%)
+}
+
+.youtube
+{
+    background-color: #ff0000;
+   
+}
