@@ -32,5 +32,4 @@ router.get("/getinvolved",function(req,res){
     res.sendFile(path + "getinvolved.html");
 })
 
-
 app.use("/",router);
