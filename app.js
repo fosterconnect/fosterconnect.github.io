@@ -34,7 +34,3 @@ router.get("/getinvolved",function(req,res){
 
 
 app.use("/",router);
-
-app.listen(3000,function(){
-  console.log("Live at Port 3000");
-});
