@@ -27,14 +27,8 @@
     
 }
 
-#myCarousel .carousel-inner{
-    height: 500px;
-}
-
-.carousel-inner > .item{
-    height: 400px;
-  }
-
-  .carousel-inner > .item > img{
-    height: 100vh;
+  a
+  {
+      text-decoration: none;
+      color: black;
   }
