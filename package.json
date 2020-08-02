@@ -1,0 +1,23 @@
+{
+  "name": "fosterconnect",
+  "version": "1.0.0",
+  "description": "foster connect website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosterconnect/fosterconnect.github.io.git"
+  },
+  "author": "Snipta Mallick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosterconnect/fosterconnect.github.io/issues"
+  },
+  "homepage": "https://github.com/fosterconnect/fosterconnect.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
